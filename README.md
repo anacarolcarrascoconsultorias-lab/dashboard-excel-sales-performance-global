@@ -1,3 +1,5 @@
+![Global Sales Performance Dashboard Banner](banner_global.png)
+
 # Global Sales Performance Dashboard – Google Sheets  
 **Author:** Ana C. Carrasco  
 **Tools:** Google Sheets, Pivot Tables, Slicers, KPI Analysis, Data Visualization
